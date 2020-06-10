@@ -141,14 +141,14 @@
 	</pluginRepositories>
 	<distributionManagement>
 		<snapshotRepository>
-		  <id>nexus</id>
+		  <id>mule-nexus</id>
 		  <name>Mule SnapShot Repository</name>
-		  <url>http://mavencentral.it.att.com:8081/nexus/repository/att-repository-snapshots/</url>
+		  <url>http://localhost:8081/repository/mule-snapshot/</url>
 		</snapshotRepository>
 		<repository>
-		  <id>nexus</id>
+		  <id>mule-nexus</id>
 		  <name>Mule Release Repository</name>
-		  <url>http://mavencentral.it.att.com:8081/nexus/repository/att-repository-releases/</url>
+		  <url>http://localhost:8081/repository/mule-release/</url>
 		</repository>
   	</distributionManagement>
 
