@@ -21,7 +21,7 @@
 	</properties>
 
 	<build>
-	<finalName>${artifactId}-B${build.number}-${version}-${packaging}</finalName>
+	<finalName>${artifactId}-B${build.number}-${version}</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.mule.tools.maven</groupId>
