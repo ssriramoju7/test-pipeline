@@ -15,6 +15,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<build.number>0</build.number>
 		<app.runtime>4.3.0</app.runtime>
+	    	<deploymentName>att-cloudhub-${mule.env}-test-pipenine</deploymentName>
 		<mule.maven.plugin.version>3.3.5</mule.maven.plugin.version>
 		<munit.version>2.2.4</munit.version>
 	    	<businessGroupName>ATT</businessGroupName>
