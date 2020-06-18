@@ -18,7 +18,7 @@
 	    	<deploymentName>test-pipeline</deploymentName>
 		<mule.maven.plugin.version>3.3.5</mule.maven.plugin.version>
 		<munit.version>2.2.4</munit.version>
-	    	<businessGroupName>ATT</businessGroupName>
+	    	<businessGroupName>RETAIL</businessGroupName>
 		<!-- <sonar.sources>src</sonar.sources> Directory from where scan Configuration Files -->
 	</properties>
 
